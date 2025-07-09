@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(page_title="Hotel Booking App", layout="wide")
 st.title("🏨 Hotel Booking App")
-st.write("Welcome to Anshul's Streamlit-based hotel booking platform!")
+st.write("Welcome to my hotel booking platform!")
 
 # Sample layout
 with st.sidebar:
